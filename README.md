@@ -13,7 +13,6 @@
 <h2>Features</h2>
 <ul>
     <li>Five-stage pipeline: Instruction Fetch, Decode, Execute, Memory Access, and Write-back</li>
-    <li>Hazard detection and forwarding units to handle data and control hazards</li>
     <li>Increased instruction throughput by parallelizing operations across pipeline stages</li>
 </ul>
 
